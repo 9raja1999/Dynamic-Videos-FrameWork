@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 343.28 193"><defs><style>.cls-1{fill:#f70814; 
+  -webkit-animation: heart-anim 7s 1s infinite;
+          animation: heart-anim 7s 1s infinite;}@-webkit-keyframes heart-anim {
+  55% {
+    stroke-dashoffset: 308.522;
+    fill: transparent;
+  }
+  70% {
+    stroke-dashoffset: 0;
+    fill: transparent;
+  }
+  87% {
+    stroke-dashoffset: 0;
+    fill: #E21737;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    fill: #E21737;
+  }
+} .cls-2{fill:none;stroke:#f70814;stroke-miterlimit:10;}.cls-2{fill:none;stroke:#f70814;stroke-miterlimit:10;}</style></defs><title>Zero</title><g id="Zero"><path class="cls-1" d="M178,153.19q-20.59,0-31.62-15.4t-11-43.62q0-19.31,4.87-32.27t14.51-19.63q9.65-6.65,23.27-6.64,20.76,0,31.7,14.92T220.6,94q0,19-4.87,32.19T201.3,146.3Q191.73,153.2,178,153.19Zm0-20.27q9.41,0,14-9.32T196.44,94q0-20.27-4.46-29.18T178,55.9q-9.4,0-13.94,8.92T159.46,94q0,20.28,4.55,29.6T178,132.92Z"/></g><g id="Zero_Outline" data-name="Zero Outline"><path class="cls-2" d="M178,153.19q-20.59,0-31.62-15.4t-11-43.62q0-19.31,4.87-32.27t14.51-19.63q9.65-6.65,23.27-6.64,20.76,0,31.7,14.92T220.6,94q0,19-4.87,32.19T201.3,146.3Q191.73,153.2,178,153.19Zm0-20.27q9.41,0,14-9.32T196.44,94q0-20.27-4.46-29.18T178,55.9q-9.4,0-13.94,8.92T159.46,94q0,20.28,4.55,29.6T178,132.92Z"/></g></svg>
